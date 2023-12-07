@@ -1,3 +1,4 @@
+/*
 const ourlibrary = `https://ourLibrarySite.onrender.com`
 
 const blogShareButton = document.getElementById(`share-link`)
@@ -12,3 +13,4 @@ blogShareButton.addEventListener('click', (e) => {
     navigator.clipboard.writeText(link)
     alert(`Link copied`)
 })
+*/
